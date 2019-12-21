@@ -1,3 +1,5 @@
 tema training !!
 
 Make sure how to use github
+
+So mitake has branch  "mighty" 
